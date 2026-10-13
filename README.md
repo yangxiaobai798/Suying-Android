@@ -1,3 +1,5 @@
+> 个人自用版本：基于开源项目 [YTDLnis](https://github.com/deniscerri/ytdlnis)（GPL-3.0）修改，应用名称/图标/文案本地化为「速映」。仅供个人使用。
+
 <h1 align="center">
 	<img src="fastlane/metadata/android/en-US/images/icon.png" width="25%" /> <br>
 	YTDLnis

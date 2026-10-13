@@ -1,7 +1,6 @@
 *.iml
 .gradle
 /local.properties
-/keystore.properties
 /.idea
 .DS_Store
 /build
@@ -13,3 +12,4 @@ app/src/main/jniLibs
 .kotlin
 # generated in CI by scripts/fetch_translators.py
 app/src/main/assets/translators.json
+!app/src/main/res/drawable-*/ic_launcher_foreground.png

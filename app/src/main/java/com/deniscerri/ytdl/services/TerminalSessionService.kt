@@ -114,7 +114,7 @@ class TerminalSessionService : Service() {
         )
 
         return NotificationCompat.Builder(this, CHANNEL_ID)
-            .setContentTitle("YTDLnis Terminal")
+            .setContentTitle("速映 终端")
             .setContentText(getNotificationContentText())
             .setSmallIcon(R.drawable.ic_terminal)
             .setContentIntent(pendingIntent)
