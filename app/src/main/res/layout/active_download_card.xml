@@ -28,6 +28,7 @@
                 android:id="@+id/image_view"
                 android:adjustViewBounds="true"
                 android:scaleType="centerCrop"
+                android:background="#1A1C23"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent" />
 

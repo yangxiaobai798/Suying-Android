@@ -97,7 +97,7 @@ object NavbarUtil {
 
     fun NavigationBarView.setLabelVisibility() {
         val labelVisibilityMode = when (
-            settings.getString("label_visibility", "always")
+            settings.getString("label_visibility", "never")
         ) {
             "always" -> NavigationBarView.LABEL_VISIBILITY_LABELED
             "selected" -> NavigationBarView.LABEL_VISIBILITY_SELECTED
