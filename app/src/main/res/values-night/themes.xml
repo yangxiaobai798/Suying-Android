@@ -74,6 +74,14 @@
         <item name="colorOnSurfaceInverse">@color/blue_md_theme_dark_inverseOnSurface</item>
         <item name="colorSurfaceInverse">@color/blue_md_theme_dark_inverseSurface</item>
         <item name="colorPrimaryInverse">@color/blue_md_theme_dark_inversePrimary</item>
+        <item name="colorSurfaceContainerLowest">@color/suying_dark_sc_lowest</item>
+        <item name="colorSurfaceContainerLow">@color/suying_dark_sc_low</item>
+        <item name="colorSurfaceContainer">@color/suying_dark_sc</item>
+        <item name="colorSurfaceContainerHigh">@color/suying_dark_sc_high</item>
+        <item name="colorSurfaceContainerHighest">@color/suying_dark_sc_highest</item>
+        <item name="colorOutlineVariant">@color/suying_dark_outline_variant</item>
+        <item name="colorSurfaceDim">@color/suying_dark_surface_dim</item>
+        <item name="colorSurfaceBright">@color/suying_dark_surface_bright</item>
 
     </style>
 

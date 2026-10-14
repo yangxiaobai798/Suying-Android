@@ -13,3 +13,4 @@ app/src/main/jniLibs
 # generated in CI by scripts/fetch_translators.py
 app/src/main/assets/translators.json
 !app/src/main/res/drawable-*/ic_launcher_foreground.png
+!app/src/main/res/drawable-*/ic_app_icon.png

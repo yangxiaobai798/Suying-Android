@@ -116,7 +116,7 @@ object ThemeUtil {
             activity.theme.applyStyle(R.style.Pure, true)
         }
 
-        val theme = sharedPreferences.getString("ytdlnis_theme", "System")!!
+        val theme = sharedPreferences.getString("ytdlnis_theme", "Dark")!!
         when (theme) {
             "Light" -> {
                 AppCompatDelegate.setDefaultNightMode(AppCompatDelegate.MODE_NIGHT_NO)
@@ -152,9 +152,7 @@ object ThemeUtil {
      * Get the styled app name
      */
     fun getStyledAppName(context: Context): Spanned {
-        val colorPrimary = getThemeColor(context, androidx.appcompat.R.attr.colorPrimaryDark)
-        val hexColor = "#%06X".format(0xFFFFFF and colorPrimary)
-        return "<span  style='color:$hexColor';>YTDL</span>nis"
+        return "<span style='color:#5B8DFF'>速</span>映"
             .parseAsHtml(HtmlCompat.FROM_HTML_MODE_COMPACT)
     }
 

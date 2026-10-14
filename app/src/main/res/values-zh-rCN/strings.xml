@@ -636,4 +636,98 @@
     <string name="retry_all">全部重试</string>
     <string name="download_anyway">仍要下载</string>
     <string name="toggle_all">全部切换</string>
+
+
+    <!-- 速映 v1.1：补全缺失的中文翻译 -->
+
+    <string name="clear">清除</string>
+
+    <string name="embed_lyrics">嵌入歌词</string>
+
+    <string name="embed_lyrics_summary">从 lrclib.net 获取歌词并嵌入到音频文件中</string>
+
+    <string name="lyrics">歌词</string>
+
+    <string name="lyrics_no_preview">暂无法预览，下载时仍会添加歌词</string>
+
+    <string name="lyrics_not_found">未找到歌词</string>
+
+    <string name="lyrics_offset">偏移</string>
+
+    <string name="lyrics_plain">纯文本</string>
+
+    <string name="lyrics_source">歌词来自 lrclib.net</string>
+
+    <string name="lyrics_synced">已同步</string>
+
+    <string name="lyrics_unsynced">歌词未同步，无法调整时间轴</string>
+
+    <string name="merge_cuts">将片段合并为一个文件</string>
+
+    <string name="save_lrc_file">保存 .lrc 文件</string>
+
+    <string name="save_lrc_file_summary">将同步歌词以 .lrc 文件保存到音频文件旁</string>
+
+    <string name="translators">翻译贡献者</string>
+
+    <string name="translators_summary">在 Weblate 上帮助翻译本应用的人们</string>
+
+    <string name="translators_unavailable">此版本不提供翻译者名单，你仍可在 Weblate 上查看所有贡献者。</string>
+
+    <string name="welcome_allow">允许</string>
+
+    <string name="welcome_allowed">已允许</string>
+
+    <string name="welcome_finish">完成</string>
+
+    <string name="welcome_get_started">开始使用</string>
+
+    <string name="welcome_guide_summary">指南涵盖应用的使用方法、下载、命令模板以及常见问题解决方法，随时可以从网站打开。</string>
+
+    <string name="welcome_guide_title">阅读指南</string>
+
+    <string name="welcome_next">下一步</string>
+
+    <string name="welcome_open_guide">打开指南</string>
+
+    <string name="welcome_perm_alarms">闹钟与提醒</string>
+
+    <string name="welcome_perm_alarms_summary">让计划下载准时开始。</string>
+
+    <string name="welcome_perm_battery">不受限制的电池使用</string>
+
+    <string name="welcome_perm_battery_summary">防止长时间下载在后台被中断。</string>
+
+    <string name="welcome_perm_notifications">通知</string>
+
+    <string name="welcome_perm_notifications_summary">显示下载进度和已完成的下载。</string>
+
+    <string name="welcome_perm_storage">存储权限</string>
+
+    <string name="welcome_perm_storage_summary">用于把下载的文件保存到设备。</string>
+
+    <string name="welcome_permissions_summary">速映在使用这些权限时表现最佳，之后也可以在设置中更改。</string>
+
+    <string name="welcome_permissions_title">权限</string>
+
+    <string name="welcome_required">必需</string>
+
+    <string name="welcome_restore_backup">从备份恢复</string>
+
+    <string name="welcome_restore_failed">无法恢复此备份</string>
+
+    <string name="welcome_restoring">正在恢复备份…</string>
+
+    <string name="welcome_subtitle">使用 yt-dlp 下载视频和音频。先来做几项初始设置。</string>
+
+    <string name="welcome_title">欢迎使用速映</string>
+
+    <string name="welcome_updates_summary">选择速映的更新方式。</string>
+
+    <string name="welcome_updates_title">更新</string>
+
+    <string name="write_ytdlp_terminal">在终端中自动写入 yt-dlp</string>
+
+    <string name="ytdlp">yt-dlp</string>
+
 </resources>
